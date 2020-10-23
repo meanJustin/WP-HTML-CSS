@@ -1,0 +1,21 @@
+The project would be divided into 4 steps.
+
+First build the boilerplate for your project
+And convert all html files to html
+
+It costs more than 200
+
+
+And second using  your previous database set the new database.
+Costs would be 100
+
+And develop the backend apis
+200
+
+And fourth step is testing and debuging
+From there 100
+
+It's the minimun costs of this project.
+
+But I think we could make agreement on 400
+Hope to discuss about that on $Kyp_  : MeanJustin623
